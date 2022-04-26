@@ -1,0 +1,65 @@
+h1 {
+    color: #40bcbf;
+    text-align: center;
+    background-color: white;
+    border: 5px solid;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.pastries {
+    display: flex;
+    justify-content: space-between;
+    border: 5px solid #40bcbf;
+    padding: 20px;
+    margin: 50px;
+    background-color: white;
+}
+
+.c {
+    border: 7px groove white;
+    color: #bb23dc;
+}
+
+.d {
+    border: 7px groove white;
+    color: #bb23dc;
+}
+
+.t {
+    border: 7px groove white;
+    color: #bb23dc;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border: 5px solid #40bcbf;
+    color: white;
+}
+
+body {
+    background-color: pink;
+}
+
+h2 {
+    color: #40bcbf;
+    border: dotted 4px white;
+    text-align: center;
+}
+
+.logo {
+    height: 600px;
+    width: 600px;
+
+}
+
+
+.logoDiv {
+    display: flex;
+    justify-content: center;
+}
